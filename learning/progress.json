@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "current_phase": "P0",
+  "current_module": null,
+  "current_session": "S001",
+  "current_activity": null,
+  "session_status": "NOT_STARTED",
+  "completed_sessions": [],
+  "completed_assessments": [],
+  "learning_hours": 0,
+  "skill_mastery": {},
+  "latest_checkpoint": null
+}
