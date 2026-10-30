@@ -1,0 +1,12 @@
+{
+  "language": "vi",
+  "level": "zero_foundation",
+  "goal_toeic_lr": 900,
+  "sessions_per_week": 3,
+  "minutes_per_session": 60,
+  "session_based": true,
+  "theory_percent": 20,
+  "practice_percent": 80,
+  "python_minimum": "3.9",
+  "progress_requires_confirmation": true
+}
